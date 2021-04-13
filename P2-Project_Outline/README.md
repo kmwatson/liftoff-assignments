@@ -8,9 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-The project our groups has chosen is a website that will allow athelets to schedule amateur sporting events in their own community. It will be a way for members to connect, and inform each other about games that they are organizing at a particular venue. By logging on, users can get a listing of events, including time and place, as well as what sport is being played. The event organizer can inform anyone interest what kind of equipment is needed for the event. 
-   Members will have a concise, easy-accessable means to find and create sporting events in their area. The application will greatly reduce the time and trouble required to arrange frequent sporting events, and help people connect with other players that may have never met otherwise.
-   
+I have chosen to create an app that will allow people with disabilities to rate their experiences at different tourist destinations. One of my close friends has limited mobility and she loves to travel, especially abroad, but some historical landmarks have very limited accommodations. She still wants to visit but being able to know in advance what she can expect when she gets there would allow her to better plan and have a much better traveling experience. This app would allow users to create profiles, search, and read and write reviews for different locations. 
    
 ### Features
 
@@ -20,27 +18,26 @@ Features include:
  Users will be abal to access their user accounts to make changes, schedule events, or check for event notifications in their area. 
 
  Search capabilities:
- Users can search by type of sport, skill level, location, date, or other search criteria. 
+ Users can search by location, type of tourist destination, the best spots as rated by other people with similar mobility issues, or other search criteria. 
 
- Create events:
- Users can create events with all relevant information, such as:
- location, date/time -- duration, number of players, type of activity, is equipment needed, skill level, age.
+ Reviews:
+ Users can write a review of a destination they visited based on how easy it was to navigate and read reviews from other users.
 
- Running Scoreboard: 
- Users can view the real-time scores for each game being played.
+ Save destinations:
+ Users can save places they want to visit to their profile to plan their trip.
  
  
 ### Technologies
 
- This project will use a Angular/JavaScript front end, SpringBoot/Java back end, and SQL. 
+ This project will use a React/JavaScript front end, SpringBoot/Java back end, and SQL. 
 
 
 ### What I'll Have to Learn
 
-I'll have to learn REST APIs  to bring together the Angular/JavaScript front end and the SpringBoot/Java back end.
+I'll have to learn React for front end and supplement my knowledge to use REST APIs to bring the front end and back end together
 
 
 ### Project Tracker
 
 Here's where we are thusfar:
- https://trello.com/b/4CciJPnR/recleague-organize
+ https://trello.com/b/HobDWdrt/liftoff-2021
